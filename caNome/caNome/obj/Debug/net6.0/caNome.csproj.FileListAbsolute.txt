@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\caNome\caNome\bin\Debug\net6.0\caNome.exe
+C:\Users\gabri\source\repos\caNome\caNome\bin\Debug\net6.0\caNome.deps.json
+C:\Users\gabri\source\repos\caNome\caNome\bin\Debug\net6.0\caNome.runtimeconfig.json
+C:\Users\gabri\source\repos\caNome\caNome\bin\Debug\net6.0\caNome.dll
+C:\Users\gabri\source\repos\caNome\caNome\bin\Debug\net6.0\caNome.pdb
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.AssemblyInfo.cs
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.dll
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\refint\caNome.dll
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.pdb
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\caNome.genruntimeconfig.cache
+C:\Users\gabri\source\repos\caNome\caNome\obj\Debug\net6.0\ref\caNome.dll
