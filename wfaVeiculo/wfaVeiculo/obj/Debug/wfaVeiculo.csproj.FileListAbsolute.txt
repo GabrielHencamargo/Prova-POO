@@ -1,0 +1,11 @@
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.Form1.resources
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.Properties.Resources.resources
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\bin\Debug\wfaVeiculo.exe.config
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\bin\Debug\wfaVeiculo.exe
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\bin\Debug\wfaVeiculo.pdb
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.exe
+C:\Users\gabri\source\repos\wfaVeiculo\wfaVeiculo\obj\Debug\wfaVeiculo.pdb
